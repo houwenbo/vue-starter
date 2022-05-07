@@ -108,3 +108,8 @@ _提示：ESLint 规则中识别的 Tab 为两个空格，VSCode 默认为四个
 **ESLint 和 Prettier 之间的冲突**
 
 配置 `.eslintrc.js` 中添加规则：`'space-before-function-paren': 'off'` 解决唯一的冲突问题
+
+## 配置 Commitizen 插件
+
+- 在项目中安装和配置 `cz-customizable` 之前需要先全局安装 `commitizen` ：`npm install -g commitizen@4.2.4`
+- 使用时用 `git cz` 代替 `git commit` 命令
