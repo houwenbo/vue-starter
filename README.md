@@ -113,3 +113,7 @@ _提示：ESLint 规则中识别的 Tab 为两个空格，VSCode 默认为四个
 
 - 在项目中安装和配置 `cz-customizable` 之前需要先全局安装 `commitizen` ：`npm install -g commitizen@4.2.4`
 - 使用时用 `git cz` 代替 `git commit` 命令
+
+## 运行 husky 插件
+
+运行：`npm run prepare`
