@@ -1,4 +1,4 @@
-# vue-admin
+# Vue Starter
 
 ## Project setup
 
